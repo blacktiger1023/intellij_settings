@@ -1,0 +1,17 @@
+<keymap version="1" name="Eclipse 복사" parent="Eclipse">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="EditorResetFontSize">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+</keymap>
