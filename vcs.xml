@@ -38,9 +38,13 @@
           <option name="url" value="http://192.168.111.247:3000" />
           <option name="userName" value="myeonho.seon" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.111.247:3000/moblie_giftishow_biz/mWEB_FO_FRONT.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Project\01.KT_Alpha\TO_BE\SOURCE\BE" />
+    <option name="cloneParentDir" value="D:\Project\01.KT_Alpha\TO_BE\SOURCE\FE" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
