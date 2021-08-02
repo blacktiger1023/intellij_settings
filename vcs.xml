@@ -55,6 +55,9 @@
     <option name="cloneParentDir" value="D:\Project\01.KT_Alpha\TO_BE\SOURCE\GitLab\FE" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
+    <option name="DIFF_PREVIEW_VERTICAL_SPLIT" value="false" />
+    <option name="PREFER_COMMIT_DATE" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
