@@ -50,9 +50,13 @@
           <option name="url" value="http://gitlab.ktmhows.net" />
           <option name="userName" value="myeonho.seon" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.ktmhows.net/giftishowbizmobile/mweb_fo_api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Project\01.KT_Alpha\TO_BE\SOURCE\GitLab\FE" />
+    <option name="cloneParentDir" value="D:\Project\01.KT_Alpha\TO_BE\SOURCE\GitLab\BE" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />
